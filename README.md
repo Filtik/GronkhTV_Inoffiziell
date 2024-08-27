@@ -7,7 +7,7 @@ Letzte bearbeitung war mitte 2023
 
 Video zu sehen 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OWtpWn1ZUr4/0.jpg)](https://www.youtube.com/watch?v=OWtpWn1ZUr4)
+[![Video](https://img.youtube.com/vi/OWtpWn1ZUr4/0.jpg)](https://www.youtube.com/watch?v=OWtpWn1ZUr4)
 
 Da ich sehr wahrscheinlich nicht mehr dran arbeite und so für mich zum schauen okay ist, lass ich dies so.
 
@@ -30,3 +30,10 @@ Fire TV Stick (2nd Gen) -- bisle ruckelnd beim Menüführung, sonst gehts ohne P
 Fire TV Stick 4k
 
 Fire TV Cube
+
+
+Aber:
+1. Die Suche geht nicht, wollte ich noch machen aber naja.
+2. Es werden nur die letzten 10 Videos abgerufen.
+3. Es gibt kleine Problemchen bei der Wiedergabe.
+4. Sorry
