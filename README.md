@@ -1,4 +1,4 @@
-# GronkhTV_Inoffiziell
+# GronkhTV Inoffiziell
 GronkhTV für den FireTV
 
 Die war mal ein kleines Projekt von mir um auf den FireTV GronkhTV zu schauen.
