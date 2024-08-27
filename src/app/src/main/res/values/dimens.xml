@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="control_size">20dp</dimen>
+    <dimen name="control_spacing">10dp</dimen>
+    <dimen name="control_padding">10dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+    <dimen name="lb_playback_transport_height">20dp</dimen>
+    <dimen name="lb_playback_transport_button_size">20dp</dimen>
+</resources>
